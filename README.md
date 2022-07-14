@@ -1,3 +1,2 @@
-"# multisignature1" 
-"# Hashstack" 
-"# Hashstack-1" 
+accesregistorAccess registry contract address : 0x192f5853b16fe84aca15d70ed646e596b8fe4878
+MultiSig wallet contract address : 0x192f5853b16fe84aca15d70ed646e596b8fe4878
